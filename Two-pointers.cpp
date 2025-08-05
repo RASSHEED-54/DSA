@@ -5,7 +5,7 @@ int main(){
     int n,arr[20];
     cout<<"Enter Number of Elements :";
     cin >> n;
-    cout<<"Enter "<<n<<" Of Elements :";
+    cout<<"Enter "<<n<<" Elements :";
     for(int i=0;i<n;i++){
         cin >> arr[i];
     }
